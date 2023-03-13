@@ -7,6 +7,7 @@ bootstrap@4.6.0 --save
 bootstrap-vue@2.21.2 --save
 
 if not run the next lines:
+
 npm install flask
 npm install -g @vue/cli
 npm install axios@0.21.1 --save
