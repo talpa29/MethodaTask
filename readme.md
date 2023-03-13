@@ -1,10 +1,10 @@
-make sure tou have satisfiy the next requirements:
+Make sure you meet the following requirements:
 
 flask
-@vue/cli
-axios@0.21.1 --save
-bootstrap@4.6.0 --save
-bootstrap-vue@2.21.2 --save
+@vue/cli,
+axios@0.21.1 --save,
+bootstrap@4.6.0 --save,
+bootstrap-vue@2.21.2 --save.
 
 if not run the next lines:
 
@@ -20,6 +20,6 @@ cd to frontend/frontend
 run:  npm install
 
 
-run the file : main.py in the backend dictionary
+run the file : main.py in the backend folder
 
 run:  npm run serve
